@@ -1,18 +1,21 @@
-import React from 'react'
-import { assets } from '../assets/assets'
+import React from "react";
 
 const Footer = () => {
   return (
-    <div className='container px-4 2xl:px-20 mx-auto flex items-center justify-between gap-4 py-3 mt-20'>
-      <img width={160} src={assets.hlogo} alt="" />
-      <p className='flex-1 border-l border-gray-400 pl-4 text-sm text-gray-500 max-sm:hidden'>Copyright © 2025 Hire Me | All rights reserved</p>
-      <div className='flex gap-2.5'>
-        <img width={38} src={assets.facebook_icon} alt="" />
-        <img width={38} src={assets.twitter_icon} alt="" />
-        <img width={38} src={assets.instagram_icon} alt="" />
-      </div>
-    </div>
-  )
-}
+    <footer className="p-4 text-center bg-[#f8fafc] border-t border-[#e2e8f0] text-[#64748b] text-sm flex-shrink-0">
+      <p>
+        Made with ❤️ by{" "}
+        <a
+          href="https://tushar-bhardwaj.vercel.app/"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="text-[#4f46e5] font-medium underline hover:text-[#4338ca] transition-all duration-200"
+        >
+          Tushar Bhardwaj
+        </a>
+      </p>
+    </footer>
+  );
+};
 
-export default Footer
+export default Footer;
