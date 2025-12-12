@@ -1,1 +1,9 @@
 node_modules
+
+# Environment variables (contains sensitive credentials)
+.env
+.env.local
+.env.*.local
+
+# Docker volumes and data
+docker-compose.override.yml

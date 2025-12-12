@@ -1,0 +1,86 @@
+# Dependencies
+node_modules
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Testing
+coverage
+*.coveragerc
+.nyc_output
+
+# Production
+dist
+build
+.next
+out
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# IDE
+.vscode
+.idea
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Git
+.git
+.gitignore
+.gitattributes
+
+# CI/CD
+.github
+.gitlab-ci.yml
+.travis.yml
+.circleci
+
+# Documentation
+*.md
+!README.md
+docs
+
+# Docker
+Dockerfile
+docker-compose*.yml
+.dockerignore
+
+# Logs
+logs
+*.log
+
+# Misc
+.cache
+.temp
+tmp
+*.tmp
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Editor directories
+.vscode-test
+.history
+
+# Vercel
+.vercel
+vercel.json
+
+# Client specific
+client/dist
+client/node_modules
+client/.vite
+
+# Server specific
+server/node_modules
+
+# Uploads
+uploads
