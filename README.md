@@ -1,5 +1,5 @@
 # Hire Me - Full Stack Job Portal
-![image](https://github.com/user-attachments/assets/6405cf0d-2205-4405-96fe-12a85539dfae)
+<img width="1662" height="967" alt="image" src="https://github.com/user-attachments/assets/cbdd0595-1cf2-42d7-b194-9e9088671b84" />
 
 
 
@@ -142,3 +142,4 @@ Contributions are welcome! If you'd like to contribute, follow these steps:
 - **GitHub:** [TuShArBhArDwA](https://github.com/TuShArBhArDwA)
 - **LinkedIn:** [Tushar Bhardwaj](https://www.linkedin.com/in/bhardwajtushar2004/)
 - **Email:** [tusharbhardwaj2617@gmail.com](mailto:tusharbhardwaj2617@gmail.com)
+
