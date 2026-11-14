@@ -7,3 +7,4 @@ node_modules
 
 # Docker volumes and data
 docker-compose.override.yml
+node_modules/
